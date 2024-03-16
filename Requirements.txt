@@ -1,0 +1,16 @@
+The following packages are used in the project. Please ensure they are downloaded before proceeding to run code.
+
+dplyr
+stringr
+lubridate
+ggplot2
+corrplot
+rpivotTable
+tidyr
+regclass
+Metrics
+glmnet
+caret
+MASS
+car
+randomForest
